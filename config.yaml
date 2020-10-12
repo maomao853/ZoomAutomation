@@ -1,0 +1,92 @@
+#READ THE EXAMPLE CAREFULLY
+#
+#
+# [Template]
+#   course: <Course Name>
+#   meetingID: <Zoom Conference Number>
+#   password: <Zoom Conference Password> (unhashed)
+#   weekday: <Weekday> (all lowercase, seperated by comma, no space,)
+#   start_time: <'time'> (24hr-time, single quotation around 'time', HH:MM format)
+#
+#
+# [Example]
+#   course: CS101
+#   meetingID: 999 9999 9999
+#   password: 1234
+#   weekday: Monday,Wednesday,Friday
+#   start_time: '14:30'
+
+
+# Number of courses (0 - 10)
+num_course: 0
+
+# Course Information
+1:
+  course:
+  meetingID:
+  password:
+  weekday:
+  start_time:
+
+2:
+  course:
+  meetingID:
+  password:
+  weekday:
+  start_time:
+
+3:
+  course:
+  meetingID:
+  password:
+  weekday:
+  start_time:
+  
+4:
+  course:
+  meetingID:
+  password:
+  weekday:
+  start_time:
+
+5:
+  course:
+  meetingID:
+  password:
+  weekday:
+  start_time:
+
+6:
+  course:
+  meetingID:
+  password:
+  weekday:
+  start_time:
+
+7:
+  course:
+  meetingID:
+  password:
+  weekday:
+  start_time:
+
+8:
+  course:
+  meetingID:
+  password:
+  weekday:
+  start_time:
+
+9:
+  course:
+  meetingID:
+  password:
+  weekday:
+  start_time:
+
+10:
+  course:
+  meetingID:
+  password:
+  weekday:
+  start_time:
