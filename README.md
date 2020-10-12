@@ -1,4 +1,4 @@
-# Zoom Automation (private)
+# Zoom Automation
 
 A python script that automatically joins recurring zoom meetings. This serves to be very useful for joining courses for school, church events, and business meetings.
 
